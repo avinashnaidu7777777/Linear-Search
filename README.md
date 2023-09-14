@@ -5,11 +5,11 @@ Linear search is also called as sequential search algorithm. It is the simplest 
 It is widely used to search an element from the unordered list, i.e., the list in which items are not sorted. The worst-case time complexity of linear search is O(n).
 
 ### The steps used in the implementation of Linear Search are listed as follows -
-1.First, we have to traverse the array elements using a for loop.
-2.In each iteration of for loop, compare the search element with the current array element, and -
-3.If the element matches, then return the index of the corresponding array element.
-4.If the element does not match, then move to the next element.
-5.If there is no match or the search element is not present in the given array, return -1.
+1. First, we have to traverse the array elements using a for loop.
+2. In each iteration of for loop, compare the search element with the current array element, and -
+3. If the element matches, then return the index of the corresponding array element.
+4. If the element does not match, then move to the next element.
+5. If there is no match or the search element is not present in the given array, return -1.
 
 #### Now, let's see the algorithm of linear search.
 Linear_Search(a, n, val) // 'a' is the given array, 'n' is the size of given array, 'val' is the value to search  
