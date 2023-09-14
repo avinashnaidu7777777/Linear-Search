@@ -30,11 +30,11 @@ Step 6: exit
 
 ##### Linear Search complexity
 Now, let's see the time complexity of linear search in the best case, average case, and worst case. We will also see the space complexity of linear search.
-**Best Case Complexity** - 
+- **Best Case Complexity** - 
 In Linear search, best case occurs when the element we are finding is at the first position of the array. The best-case time complexity of linear search is O(1).
-**Average Case Complexity** - 
+- **Average Case Complexity** - 
 The average case time complexity of linear search is O(n).
-**Worst Case Complexity** - 
+- **Worst Case Complexity** - 
 In Linear search, the worst case occurs when the element we are looking is present at the end of the array. The worst-case in linear search could be when the target element is not present in the given array, and we have to traverse the entire array. The worst-case time complexity of linear search is O(n).
 The time complexity of linear search is O(n) because every element in the array is compared only once.
 
